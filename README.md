@@ -1,0 +1,1 @@
+Treinando C com alguns programinhas bem simples pra aprender a sintaxe e etc
