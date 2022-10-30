@@ -1,0 +1,1 @@
+Binary Search, uma implementação bem porca (muito por conta de eu nn saber muito bem a sintaxe de C e tambem porque eu sou muito burro no sentido de compreender algoritimos...)  que eu pretendo melhorar 
